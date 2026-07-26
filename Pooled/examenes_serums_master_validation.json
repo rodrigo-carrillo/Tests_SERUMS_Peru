@@ -1,0 +1,1144 @@
+{
+  "report": {
+    "timestamp": "2026-07-20T19:19:39.941631",
+    "errors": [],
+    "warnings": [
+      {
+        "check": "duplicate_questions_within_area",
+        "message": "10 fila(s) involucrada(s) en 5 grupo(s) de duplicados",
+        "n_groups": 5,
+        "n_rows_involved": 10,
+        "by_area": {
+          "Examenes_2026_I|8053031-005-psicologia": 2,
+          "Examenes_2026_I|8053031-007-veterinaria": 2,
+          "Examenes_2026_I|8053031-008-nutricion": 4,
+          "Examenes_2026_I|8053031-012-laboratorio": 2
+        },
+        "duplicates": [
+          {
+            "convocatoria": "Examenes_2026_I",
+            "area": "8053031-005-psicologia",
+            "occurrences": 2,
+            "row_indices": [
+              5320,
+              5382
+            ],
+            "question_text": "¿Cuál es la ciencia que investiga la distribución y magnitud de los fenómenos patológicos, la forma en que varían entre \nlas diferentes poblaciones y circunstancias con las que se asocian?"
+          },
+          {
+            "convocatoria": "Examenes_2026_I",
+            "area": "8053031-007-veterinaria",
+            "occurrences": 2,
+            "row_indices": [
+              5532,
+              5546
+            ],
+            "question_text": "El fortalecimiento de capacidades del personal de salud para mejorar la calidad en un servicio específico de atención \nprimaria de salud, es una actividad acorde al objetivo de planeamiento estratégico relacionado a …"
+          },
+          {
+            "convocatoria": "Examenes_2026_I",
+            "area": "8053031-008-nutricion",
+            "occurrences": 2,
+            "row_indices": [
+              5607,
+              5636
+            ],
+            "question_text": "El fortalecimiento de capacidades del personal de salud para mejorar la calidad en un servicio específico de atención \nprimaria de salud, es una actividad acorde al objetivo de planeamiento estratégico relacionado a …"
+          },
+          {
+            "convocatoria": "Examenes_2026_I",
+            "area": "8053031-008-nutricion",
+            "occurrences": 2,
+            "row_indices": [
+              5625,
+              5677
+            ],
+            "question_text": "Si la interacción entre un paciente y el personal sanitario tratante, se da mediante uso de las TICs, ¿Qué concepto de \nsalud se está aplicando?"
+          },
+          {
+            "convocatoria": "Examenes_2026_I",
+            "area": "8053031-012-laboratorio",
+            "occurrences": 2,
+            "row_indices": [
+              6069,
+              6078
+            ],
+            "question_text": "Los individuos, inicialmente sin la enfermedad o el efecto de interés, forman los grupos de acuerdo a su exposición o no \nal factor de estudio, y se les realiza un seguimiento durante un período determinado de tiempo comparando la frecuencia \ncon que aparece el efecto o la respuesta en los expuestos y no expuestos. ¿A qué tipo de estudio longitudinal \ncorresponde?"
+          }
+        ]
+      }
+    ],
+    "checks_run": [
+      "expected_columns",
+      "row_counts_reconciliation",
+      "correct_answer_values",
+      "empty_critical_cells",
+      "duplicate_questions_within_area"
+    ],
+    "summary": {
+      "total_rows": 6600,
+      "total_files_read_ok": 66,
+      "total_files_failed": 0,
+      "n_errors": 0,
+      "n_warnings": 1
+    }
+  },
+  "files_tracking": [
+    {
+      "convocatoria": "Examenes_2025_I",
+      "area": "6664196-biologia-tipo-a",
+      "path": "/Users/rodrigocarrillo/Documents/Natural Language Processing Projects/Examen SERUMS/Examenes_2025_I/6664196-biologia-tipo-a.csv",
+      "rows_read": 100,
+      "columns": [
+        "questions",
+        "option_A",
+        "option_B",
+        "option_C",
+        "option_D",
+        "correct_answer"
+      ],
+      "read_ok": true,
+      "error": null
+    },
+    {
+      "convocatoria": "Examenes_2025_I",
+      "area": "6664196-biologia-tipo-b",
+      "path": "/Users/rodrigocarrillo/Documents/Natural Language Processing Projects/Examen SERUMS/Examenes_2025_I/6664196-biologia-tipo-b.csv",
+      "rows_read": 100,
+      "columns": [
+        "questions",
+        "option_A",
+        "option_B",
+        "option_C",
+        "option_D",
+        "correct_answer"
+      ],
+      "read_ok": true,
+      "error": null
+    },
+    {
+      "convocatoria": "Examenes_2025_I",
+      "area": "6664196-enfermeria-tipo-a",
+      "path": "/Users/rodrigocarrillo/Documents/Natural Language Processing Projects/Examen SERUMS/Examenes_2025_I/6664196-enfermeria-tipo-a.csv",
+      "rows_read": 100,
+      "columns": [
+        "questions",
+        "option_A",
+        "option_B",
+        "option_C",
+        "option_D",
+        "correct_answer"
+      ],
+      "read_ok": true,
+      "error": null
+    },
+    {
+      "convocatoria": "Examenes_2025_I",
+      "area": "6664196-farmacia-tipo-a",
+      "path": "/Users/rodrigocarrillo/Documents/Natural Language Processing Projects/Examen SERUMS/Examenes_2025_I/6664196-farmacia-tipo-a.csv",
+      "rows_read": 100,
+      "columns": [
+        "questions",
+        "option_A",
+        "option_B",
+        "option_C",
+        "option_D",
+        "correct_answer"
+      ],
+      "read_ok": true,
+      "error": null
+    },
+    {
+      "convocatoria": "Examenes_2025_I",
+      "area": "6664196-farmacia-tipo-b",
+      "path": "/Users/rodrigocarrillo/Documents/Natural Language Processing Projects/Examen SERUMS/Examenes_2025_I/6664196-farmacia-tipo-b.csv",
+      "rows_read": 100,
+      "columns": [
+        "questions",
+        "option_A",
+        "option_B",
+        "option_C",
+        "option_D",
+        "correct_answer"
+      ],
+      "read_ok": true,
+      "error": null
+    },
+    {
+      "convocatoria": "Examenes_2025_I",
+      "area": "6664196-ingenieria-sanitaria-tipo-a",
+      "path": "/Users/rodrigocarrillo/Documents/Natural Language Processing Projects/Examen SERUMS/Examenes_2025_I/6664196-ingenieria-sanitaria-tipo-a.csv",
+      "rows_read": 100,
+      "columns": [
+        "questions",
+        "option_A",
+        "option_B",
+        "option_C",
+        "option_D",
+        "correct_answer"
+      ],
+      "read_ok": true,
+      "error": null
+    },
+    {
+      "convocatoria": "Examenes_2025_I",
+      "area": "6664196-laboratorio-clinico-tipo-a",
+      "path": "/Users/rodrigocarrillo/Documents/Natural Language Processing Projects/Examen SERUMS/Examenes_2025_I/6664196-laboratorio-clinico-tipo-a.csv",
+      "rows_read": 100,
+      "columns": [
+        "questions",
+        "option_A",
+        "option_B",
+        "option_C",
+        "option_D",
+        "correct_answer"
+      ],
+      "read_ok": true,
+      "error": null
+    },
+    {
+      "convocatoria": "Examenes_2025_I",
+      "area": "6664196-laboratorio-clinico-tipo-b",
+      "path": "/Users/rodrigocarrillo/Documents/Natural Language Processing Projects/Examen SERUMS/Examenes_2025_I/6664196-laboratorio-clinico-tipo-b.csv",
+      "rows_read": 100,
+      "columns": [
+        "questions",
+        "option_A",
+        "option_B",
+        "option_C",
+        "option_D",
+        "correct_answer"
+      ],
+      "read_ok": true,
+      "error": null
+    },
+    {
+      "convocatoria": "Examenes_2025_I",
+      "area": "6664196-medicina-tipo-a",
+      "path": "/Users/rodrigocarrillo/Documents/Natural Language Processing Projects/Examen SERUMS/Examenes_2025_I/6664196-medicina-tipo-a.csv",
+      "rows_read": 100,
+      "columns": [
+        "questions",
+        "option_A",
+        "option_B",
+        "option_C",
+        "option_D",
+        "correct_answer"
+      ],
+      "read_ok": true,
+      "error": null
+    },
+    {
+      "convocatoria": "Examenes_2025_I",
+      "area": "6664196-medicina-tipo-b",
+      "path": "/Users/rodrigocarrillo/Documents/Natural Language Processing Projects/Examen SERUMS/Examenes_2025_I/6664196-medicina-tipo-b.csv",
+      "rows_read": 100,
+      "columns": [
+        "questions",
+        "option_A",
+        "option_B",
+        "option_C",
+        "option_D",
+        "correct_answer"
+      ],
+      "read_ok": true,
+      "error": null
+    },
+    {
+      "convocatoria": "Examenes_2025_I",
+      "area": "6664196-nutricion-tipo-a",
+      "path": "/Users/rodrigocarrillo/Documents/Natural Language Processing Projects/Examen SERUMS/Examenes_2025_I/6664196-nutricion-tipo-a.csv",
+      "rows_read": 100,
+      "columns": [
+        "questions",
+        "option_A",
+        "option_B",
+        "option_C",
+        "option_D",
+        "correct_answer"
+      ],
+      "read_ok": true,
+      "error": null
+    },
+    {
+      "convocatoria": "Examenes_2025_I",
+      "area": "6664196-nutricion-tipo-b",
+      "path": "/Users/rodrigocarrillo/Documents/Natural Language Processing Projects/Examen SERUMS/Examenes_2025_I/6664196-nutricion-tipo-b.csv",
+      "rows_read": 100,
+      "columns": [
+        "questions",
+        "option_A",
+        "option_B",
+        "option_C",
+        "option_D",
+        "correct_answer"
+      ],
+      "read_ok": true,
+      "error": null
+    },
+    {
+      "convocatoria": "Examenes_2025_I",
+      "area": "6664196-obstetricia-tipo-a",
+      "path": "/Users/rodrigocarrillo/Documents/Natural Language Processing Projects/Examen SERUMS/Examenes_2025_I/6664196-obstetricia-tipo-a.csv",
+      "rows_read": 100,
+      "columns": [
+        "questions",
+        "option_A",
+        "option_B",
+        "option_C",
+        "option_D",
+        "correct_answer"
+      ],
+      "read_ok": true,
+      "error": null
+    },
+    {
+      "convocatoria": "Examenes_2025_I",
+      "area": "6664196-obstetricia-tipo-b",
+      "path": "/Users/rodrigocarrillo/Documents/Natural Language Processing Projects/Examen SERUMS/Examenes_2025_I/6664196-obstetricia-tipo-b.csv",
+      "rows_read": 100,
+      "columns": [
+        "questions",
+        "option_A",
+        "option_B",
+        "option_C",
+        "option_D",
+        "correct_answer"
+      ],
+      "read_ok": true,
+      "error": null
+    },
+    {
+      "convocatoria": "Examenes_2025_I",
+      "area": "6664196-odontologia-tipo-a",
+      "path": "/Users/rodrigocarrillo/Documents/Natural Language Processing Projects/Examen SERUMS/Examenes_2025_I/6664196-odontologia-tipo-a.csv",
+      "rows_read": 100,
+      "columns": [
+        "questions",
+        "option_A",
+        "option_B",
+        "option_C",
+        "option_D",
+        "correct_answer"
+      ],
+      "read_ok": true,
+      "error": null
+    },
+    {
+      "convocatoria": "Examenes_2025_I",
+      "area": "6664196-odontologia-tipo-b",
+      "path": "/Users/rodrigocarrillo/Documents/Natural Language Processing Projects/Examen SERUMS/Examenes_2025_I/6664196-odontologia-tipo-b.csv",
+      "rows_read": 100,
+      "columns": [
+        "questions",
+        "option_A",
+        "option_B",
+        "option_C",
+        "option_D",
+        "correct_answer"
+      ],
+      "read_ok": true,
+      "error": null
+    },
+    {
+      "convocatoria": "Examenes_2025_I",
+      "area": "6664196-optometria-tipo-a",
+      "path": "/Users/rodrigocarrillo/Documents/Natural Language Processing Projects/Examen SERUMS/Examenes_2025_I/6664196-optometria-tipo-a.csv",
+      "rows_read": 100,
+      "columns": [
+        "questions",
+        "option_A",
+        "option_B",
+        "option_C",
+        "option_D",
+        "correct_answer"
+      ],
+      "read_ok": true,
+      "error": null
+    },
+    {
+      "convocatoria": "Examenes_2025_I",
+      "area": "6664196-optometria-tipo-b",
+      "path": "/Users/rodrigocarrillo/Documents/Natural Language Processing Projects/Examen SERUMS/Examenes_2025_I/6664196-optometria-tipo-b.csv",
+      "rows_read": 100,
+      "columns": [
+        "questions",
+        "option_A",
+        "option_B",
+        "option_C",
+        "option_D",
+        "correct_answer"
+      ],
+      "read_ok": true,
+      "error": null
+    },
+    {
+      "convocatoria": "Examenes_2025_I",
+      "area": "6664196-psicologia-tipo-a",
+      "path": "/Users/rodrigocarrillo/Documents/Natural Language Processing Projects/Examen SERUMS/Examenes_2025_I/6664196-psicologia-tipo-a.csv",
+      "rows_read": 100,
+      "columns": [
+        "questions",
+        "option_A",
+        "option_B",
+        "option_C",
+        "option_D",
+        "correct_answer"
+      ],
+      "read_ok": true,
+      "error": null
+    },
+    {
+      "convocatoria": "Examenes_2025_I",
+      "area": "6664196-psicologia-tipo-b",
+      "path": "/Users/rodrigocarrillo/Documents/Natural Language Processing Projects/Examen SERUMS/Examenes_2025_I/6664196-psicologia-tipo-b.csv",
+      "rows_read": 100,
+      "columns": [
+        "questions",
+        "option_A",
+        "option_B",
+        "option_C",
+        "option_D",
+        "correct_answer"
+      ],
+      "read_ok": true,
+      "error": null
+    },
+    {
+      "convocatoria": "Examenes_2025_I",
+      "area": "6664196-radiologia-tipo-a",
+      "path": "/Users/rodrigocarrillo/Documents/Natural Language Processing Projects/Examen SERUMS/Examenes_2025_I/6664196-radiologia-tipo-a.csv",
+      "rows_read": 100,
+      "columns": [
+        "questions",
+        "option_A",
+        "option_B",
+        "option_C",
+        "option_D",
+        "correct_answer"
+      ],
+      "read_ok": true,
+      "error": null
+    },
+    {
+      "convocatoria": "Examenes_2025_I",
+      "area": "6664196-radiologia-tipo-b",
+      "path": "/Users/rodrigocarrillo/Documents/Natural Language Processing Projects/Examen SERUMS/Examenes_2025_I/6664196-radiologia-tipo-b.csv",
+      "rows_read": 100,
+      "columns": [
+        "questions",
+        "option_A",
+        "option_B",
+        "option_C",
+        "option_D",
+        "correct_answer"
+      ],
+      "read_ok": true,
+      "error": null
+    },
+    {
+      "convocatoria": "Examenes_2025_I",
+      "area": "6664196-terapia-del-lenguaje-tipo-a",
+      "path": "/Users/rodrigocarrillo/Documents/Natural Language Processing Projects/Examen SERUMS/Examenes_2025_I/6664196-terapia-del-lenguaje-tipo-a.csv",
+      "rows_read": 100,
+      "columns": [
+        "questions",
+        "option_A",
+        "option_B",
+        "option_C",
+        "option_D",
+        "correct_answer"
+      ],
+      "read_ok": true,
+      "error": null
+    },
+    {
+      "convocatoria": "Examenes_2025_I",
+      "area": "6664196-terapia-del-lenguaje-tipo-b",
+      "path": "/Users/rodrigocarrillo/Documents/Natural Language Processing Projects/Examen SERUMS/Examenes_2025_I/6664196-terapia-del-lenguaje-tipo-b.csv",
+      "rows_read": 100,
+      "columns": [
+        "questions",
+        "option_A",
+        "option_B",
+        "option_C",
+        "option_D",
+        "correct_answer"
+      ],
+      "read_ok": true,
+      "error": null
+    },
+    {
+      "convocatoria": "Examenes_2025_I",
+      "area": "6664196-terapia-fisica-tipo-a",
+      "path": "/Users/rodrigocarrillo/Documents/Natural Language Processing Projects/Examen SERUMS/Examenes_2025_I/6664196-terapia-fisica-tipo-a.csv",
+      "rows_read": 100,
+      "columns": [
+        "questions",
+        "option_A",
+        "option_B",
+        "option_C",
+        "option_D",
+        "correct_answer"
+      ],
+      "read_ok": true,
+      "error": null
+    },
+    {
+      "convocatoria": "Examenes_2025_I",
+      "area": "6664196-terapia-fisica-tipo-b",
+      "path": "/Users/rodrigocarrillo/Documents/Natural Language Processing Projects/Examen SERUMS/Examenes_2025_I/6664196-terapia-fisica-tipo-b.csv",
+      "rows_read": 100,
+      "columns": [
+        "questions",
+        "option_A",
+        "option_B",
+        "option_C",
+        "option_D",
+        "correct_answer"
+      ],
+      "read_ok": true,
+      "error": null
+    },
+    {
+      "convocatoria": "Examenes_2025_I",
+      "area": "6664196-terapia-ocupacional-tipo-a",
+      "path": "/Users/rodrigocarrillo/Documents/Natural Language Processing Projects/Examen SERUMS/Examenes_2025_I/6664196-terapia-ocupacional-tipo-a.csv",
+      "rows_read": 100,
+      "columns": [
+        "questions",
+        "option_A",
+        "option_B",
+        "option_C",
+        "option_D",
+        "correct_answer"
+      ],
+      "read_ok": true,
+      "error": null
+    },
+    {
+      "convocatoria": "Examenes_2025_I",
+      "area": "6664196-terapia-ocupacional-tipo-b",
+      "path": "/Users/rodrigocarrillo/Documents/Natural Language Processing Projects/Examen SERUMS/Examenes_2025_I/6664196-terapia-ocupacional-tipo-b.csv",
+      "rows_read": 100,
+      "columns": [
+        "questions",
+        "option_A",
+        "option_B",
+        "option_C",
+        "option_D",
+        "correct_answer"
+      ],
+      "read_ok": true,
+      "error": null
+    },
+    {
+      "convocatoria": "Examenes_2025_I",
+      "area": "6664196-trabajo-social-tipo-a",
+      "path": "/Users/rodrigocarrillo/Documents/Natural Language Processing Projects/Examen SERUMS/Examenes_2025_I/6664196-trabajo-social-tipo-a.csv",
+      "rows_read": 100,
+      "columns": [
+        "questions",
+        "option_A",
+        "option_B",
+        "option_C",
+        "option_D",
+        "correct_answer"
+      ],
+      "read_ok": true,
+      "error": null
+    },
+    {
+      "convocatoria": "Examenes_2025_I",
+      "area": "6664196-trabajo-social-tipo-b",
+      "path": "/Users/rodrigocarrillo/Documents/Natural Language Processing Projects/Examen SERUMS/Examenes_2025_I/6664196-trabajo-social-tipo-b.csv",
+      "rows_read": 100,
+      "columns": [
+        "questions",
+        "option_A",
+        "option_B",
+        "option_C",
+        "option_D",
+        "correct_answer"
+      ],
+      "read_ok": true,
+      "error": null
+    },
+    {
+      "convocatoria": "Examenes_2025_I",
+      "area": "6664196-veterinaria-tipo-a",
+      "path": "/Users/rodrigocarrillo/Documents/Natural Language Processing Projects/Examen SERUMS/Examenes_2025_I/6664196-veterinaria-tipo-a.csv",
+      "rows_read": 100,
+      "columns": [
+        "questions",
+        "option_A",
+        "option_B",
+        "option_C",
+        "option_D",
+        "correct_answer"
+      ],
+      "read_ok": true,
+      "error": null
+    },
+    {
+      "convocatoria": "Examenes_2025_I",
+      "area": "6664196-veterinaria-tipo-b",
+      "path": "/Users/rodrigocarrillo/Documents/Natural Language Processing Projects/Examen SERUMS/Examenes_2025_I/6664196-veterinaria-tipo-b.csv",
+      "rows_read": 100,
+      "columns": [
+        "questions",
+        "option_A",
+        "option_B",
+        "option_C",
+        "option_D",
+        "correct_answer"
+      ],
+      "read_ok": true,
+      "error": null
+    },
+    {
+      "convocatoria": "Examenes_2025_II",
+      "area": "7084225-biologia",
+      "path": "/Users/rodrigocarrillo/Documents/Natural Language Processing Projects/Examen SERUMS/Examenes_2025_II/7084225-biologia.csv",
+      "rows_read": 100,
+      "columns": [
+        "questions",
+        "option_A",
+        "option_B",
+        "option_C",
+        "option_D",
+        "correct_answer"
+      ],
+      "read_ok": true,
+      "error": null
+    },
+    {
+      "convocatoria": "Examenes_2025_II",
+      "area": "7084225-enfermeria_claves",
+      "path": "/Users/rodrigocarrillo/Documents/Natural Language Processing Projects/Examen SERUMS/Examenes_2025_II/7084225-enfermeria_claves.csv",
+      "rows_read": 100,
+      "columns": [
+        "questions",
+        "option_A",
+        "option_B",
+        "option_C",
+        "option_D",
+        "correct_answer"
+      ],
+      "read_ok": true,
+      "error": null
+    },
+    {
+      "convocatoria": "Examenes_2025_II",
+      "area": "7084225-farmacia-y-bioquimica",
+      "path": "/Users/rodrigocarrillo/Documents/Natural Language Processing Projects/Examen SERUMS/Examenes_2025_II/7084225-farmacia-y-bioquimica.csv",
+      "rows_read": 100,
+      "columns": [
+        "questions",
+        "option_A",
+        "option_B",
+        "option_C",
+        "option_D",
+        "correct_answer"
+      ],
+      "read_ok": true,
+      "error": null
+    },
+    {
+      "convocatoria": "Examenes_2025_II",
+      "area": "7084225-ing-sanitaria",
+      "path": "/Users/rodrigocarrillo/Documents/Natural Language Processing Projects/Examen SERUMS/Examenes_2025_II/7084225-ing-sanitaria.csv",
+      "rows_read": 100,
+      "columns": [
+        "questions",
+        "option_A",
+        "option_B",
+        "option_C",
+        "option_D",
+        "correct_answer"
+      ],
+      "read_ok": true,
+      "error": null
+    },
+    {
+      "convocatoria": "Examenes_2025_II",
+      "area": "7084225-medicina-veterinaria",
+      "path": "/Users/rodrigocarrillo/Documents/Natural Language Processing Projects/Examen SERUMS/Examenes_2025_II/7084225-medicina-veterinaria.csv",
+      "rows_read": 100,
+      "columns": [
+        "questions",
+        "option_A",
+        "option_B",
+        "option_C",
+        "option_D",
+        "correct_answer"
+      ],
+      "read_ok": true,
+      "error": null
+    },
+    {
+      "convocatoria": "Examenes_2025_II",
+      "area": "7084225-medicina",
+      "path": "/Users/rodrigocarrillo/Documents/Natural Language Processing Projects/Examen SERUMS/Examenes_2025_II/7084225-medicina.csv",
+      "rows_read": 100,
+      "columns": [
+        "questions",
+        "option_A",
+        "option_B",
+        "option_C",
+        "option_D",
+        "correct_answer"
+      ],
+      "read_ok": true,
+      "error": null
+    },
+    {
+      "convocatoria": "Examenes_2025_II",
+      "area": "7084225-nutricion",
+      "path": "/Users/rodrigocarrillo/Documents/Natural Language Processing Projects/Examen SERUMS/Examenes_2025_II/7084225-nutricion.csv",
+      "rows_read": 100,
+      "columns": [
+        "questions",
+        "option_A",
+        "option_B",
+        "option_C",
+        "option_D",
+        "correct_answer"
+      ],
+      "read_ok": true,
+      "error": null
+    },
+    {
+      "convocatoria": "Examenes_2025_II",
+      "area": "7084225-obstetricia",
+      "path": "/Users/rodrigocarrillo/Documents/Natural Language Processing Projects/Examen SERUMS/Examenes_2025_II/7084225-obstetricia.csv",
+      "rows_read": 100,
+      "columns": [
+        "questions",
+        "option_A",
+        "option_B",
+        "option_C",
+        "option_D",
+        "correct_answer"
+      ],
+      "read_ok": true,
+      "error": null
+    },
+    {
+      "convocatoria": "Examenes_2025_II",
+      "area": "7084225-odontologia",
+      "path": "/Users/rodrigocarrillo/Documents/Natural Language Processing Projects/Examen SERUMS/Examenes_2025_II/7084225-odontologia.csv",
+      "rows_read": 100,
+      "columns": [
+        "questions",
+        "option_A",
+        "option_B",
+        "option_C",
+        "option_D",
+        "correct_answer"
+      ],
+      "read_ok": true,
+      "error": null
+    },
+    {
+      "convocatoria": "Examenes_2025_II",
+      "area": "7084225-psicologia",
+      "path": "/Users/rodrigocarrillo/Documents/Natural Language Processing Projects/Examen SERUMS/Examenes_2025_II/7084225-psicologia.csv",
+      "rows_read": 100,
+      "columns": [
+        "questions",
+        "option_A",
+        "option_B",
+        "option_C",
+        "option_D",
+        "correct_answer"
+      ],
+      "read_ok": true,
+      "error": null
+    },
+    {
+      "convocatoria": "Examenes_2025_II",
+      "area": "7084225-tm-laboratorio",
+      "path": "/Users/rodrigocarrillo/Documents/Natural Language Processing Projects/Examen SERUMS/Examenes_2025_II/7084225-tm-laboratorio.csv",
+      "rows_read": 100,
+      "columns": [
+        "questions",
+        "option_A",
+        "option_B",
+        "option_C",
+        "option_D",
+        "correct_answer"
+      ],
+      "read_ok": true,
+      "error": null
+    },
+    {
+      "convocatoria": "Examenes_2025_II",
+      "area": "7084225-tm-optometria",
+      "path": "/Users/rodrigocarrillo/Documents/Natural Language Processing Projects/Examen SERUMS/Examenes_2025_II/7084225-tm-optometria.csv",
+      "rows_read": 100,
+      "columns": [
+        "questions",
+        "option_A",
+        "option_B",
+        "option_C",
+        "option_D",
+        "correct_answer"
+      ],
+      "read_ok": true,
+      "error": null
+    },
+    {
+      "convocatoria": "Examenes_2025_II",
+      "area": "7084225-tm-radiologia",
+      "path": "/Users/rodrigocarrillo/Documents/Natural Language Processing Projects/Examen SERUMS/Examenes_2025_II/7084225-tm-radiologia.csv",
+      "rows_read": 100,
+      "columns": [
+        "questions",
+        "option_A",
+        "option_B",
+        "option_C",
+        "option_D",
+        "correct_answer"
+      ],
+      "read_ok": true,
+      "error": null
+    },
+    {
+      "convocatoria": "Examenes_2025_II",
+      "area": "7084225-tm-t-fisica",
+      "path": "/Users/rodrigocarrillo/Documents/Natural Language Processing Projects/Examen SERUMS/Examenes_2025_II/7084225-tm-t-fisica.csv",
+      "rows_read": 100,
+      "columns": [
+        "questions",
+        "option_A",
+        "option_B",
+        "option_C",
+        "option_D",
+        "correct_answer"
+      ],
+      "read_ok": true,
+      "error": null
+    },
+    {
+      "convocatoria": "Examenes_2025_II",
+      "area": "7084225-tm-t-lenguaje",
+      "path": "/Users/rodrigocarrillo/Documents/Natural Language Processing Projects/Examen SERUMS/Examenes_2025_II/7084225-tm-t-lenguaje.csv",
+      "rows_read": 100,
+      "columns": [
+        "questions",
+        "option_A",
+        "option_B",
+        "option_C",
+        "option_D",
+        "correct_answer"
+      ],
+      "read_ok": true,
+      "error": null
+    },
+    {
+      "convocatoria": "Examenes_2025_II",
+      "area": "7084225-tm-t-ocupacional",
+      "path": "/Users/rodrigocarrillo/Documents/Natural Language Processing Projects/Examen SERUMS/Examenes_2025_II/7084225-tm-t-ocupacional.csv",
+      "rows_read": 100,
+      "columns": [
+        "questions",
+        "option_A",
+        "option_B",
+        "option_C",
+        "option_D",
+        "correct_answer"
+      ],
+      "read_ok": true,
+      "error": null
+    },
+    {
+      "convocatoria": "Examenes_2025_II",
+      "area": "7084225-trabajo-social",
+      "path": "/Users/rodrigocarrillo/Documents/Natural Language Processing Projects/Examen SERUMS/Examenes_2025_II/7084225-trabajo-social.csv",
+      "rows_read": 100,
+      "columns": [
+        "questions",
+        "option_A",
+        "option_B",
+        "option_C",
+        "option_D",
+        "correct_answer"
+      ],
+      "read_ok": true,
+      "error": null
+    },
+    {
+      "convocatoria": "Examenes_2026_I",
+      "area": "8053031-001-medicina",
+      "path": "/Users/rodrigocarrillo/Documents/Natural Language Processing Projects/Examen SERUMS/Examenes_2026_I/8053031-001-medicina.csv",
+      "rows_read": 100,
+      "columns": [
+        "questions",
+        "option_A",
+        "option_B",
+        "option_C",
+        "option_D",
+        "correct_answer"
+      ],
+      "read_ok": true,
+      "error": null
+    },
+    {
+      "convocatoria": "Examenes_2026_I",
+      "area": "8053031-002-enfermeria",
+      "path": "/Users/rodrigocarrillo/Documents/Natural Language Processing Projects/Examen SERUMS/Examenes_2026_I/8053031-002-enfermeria.csv",
+      "rows_read": 100,
+      "columns": [
+        "questions",
+        "option_A",
+        "option_B",
+        "option_C",
+        "option_D",
+        "correct_answer"
+      ],
+      "read_ok": true,
+      "error": null
+    },
+    {
+      "convocatoria": "Examenes_2026_I",
+      "area": "8053031-003-odontologia",
+      "path": "/Users/rodrigocarrillo/Documents/Natural Language Processing Projects/Examen SERUMS/Examenes_2026_I/8053031-003-odontologia.csv",
+      "rows_read": 100,
+      "columns": [
+        "questions",
+        "option_A",
+        "option_B",
+        "option_C",
+        "option_D",
+        "correct_answer"
+      ],
+      "read_ok": true,
+      "error": null
+    },
+    {
+      "convocatoria": "Examenes_2026_I",
+      "area": "8053031-004-obstetricia",
+      "path": "/Users/rodrigocarrillo/Documents/Natural Language Processing Projects/Examen SERUMS/Examenes_2026_I/8053031-004-obstetricia.csv",
+      "rows_read": 100,
+      "columns": [
+        "questions",
+        "option_A",
+        "option_B",
+        "option_C",
+        "option_D",
+        "correct_answer"
+      ],
+      "read_ok": true,
+      "error": null
+    },
+    {
+      "convocatoria": "Examenes_2026_I",
+      "area": "8053031-005-psicologia",
+      "path": "/Users/rodrigocarrillo/Documents/Natural Language Processing Projects/Examen SERUMS/Examenes_2026_I/8053031-005-psicologia.csv",
+      "rows_read": 100,
+      "columns": [
+        "questions",
+        "option_A",
+        "option_B",
+        "option_C",
+        "option_D",
+        "correct_answer"
+      ],
+      "read_ok": true,
+      "error": null
+    },
+    {
+      "convocatoria": "Examenes_2026_I",
+      "area": "8053031-006-trabajo-social",
+      "path": "/Users/rodrigocarrillo/Documents/Natural Language Processing Projects/Examen SERUMS/Examenes_2026_I/8053031-006-trabajo-social.csv",
+      "rows_read": 100,
+      "columns": [
+        "questions",
+        "option_A",
+        "option_B",
+        "option_C",
+        "option_D",
+        "correct_answer"
+      ],
+      "read_ok": true,
+      "error": null
+    },
+    {
+      "convocatoria": "Examenes_2026_I",
+      "area": "8053031-007-veterinaria",
+      "path": "/Users/rodrigocarrillo/Documents/Natural Language Processing Projects/Examen SERUMS/Examenes_2026_I/8053031-007-veterinaria.csv",
+      "rows_read": 100,
+      "columns": [
+        "questions",
+        "option_A",
+        "option_B",
+        "option_C",
+        "option_D",
+        "correct_answer"
+      ],
+      "read_ok": true,
+      "error": null
+    },
+    {
+      "convocatoria": "Examenes_2026_I",
+      "area": "8053031-008-nutricion",
+      "path": "/Users/rodrigocarrillo/Documents/Natural Language Processing Projects/Examen SERUMS/Examenes_2026_I/8053031-008-nutricion.csv",
+      "rows_read": 100,
+      "columns": [
+        "questions",
+        "option_A",
+        "option_B",
+        "option_C",
+        "option_D",
+        "correct_answer"
+      ],
+      "read_ok": true,
+      "error": null
+    },
+    {
+      "convocatoria": "Examenes_2026_I",
+      "area": "8053031-009-biologia",
+      "path": "/Users/rodrigocarrillo/Documents/Natural Language Processing Projects/Examen SERUMS/Examenes_2026_I/8053031-009-biologia.csv",
+      "rows_read": 100,
+      "columns": [
+        "questions",
+        "option_A",
+        "option_B",
+        "option_C",
+        "option_D",
+        "correct_answer"
+      ],
+      "read_ok": true,
+      "error": null
+    },
+    {
+      "convocatoria": "Examenes_2026_I",
+      "area": "8053031-010-farmacia",
+      "path": "/Users/rodrigocarrillo/Documents/Natural Language Processing Projects/Examen SERUMS/Examenes_2026_I/8053031-010-farmacia.csv",
+      "rows_read": 100,
+      "columns": [
+        "questions",
+        "option_A",
+        "option_B",
+        "option_C",
+        "option_D",
+        "correct_answer"
+      ],
+      "read_ok": true,
+      "error": null
+    },
+    {
+      "convocatoria": "Examenes_2026_I",
+      "area": "8053031-011-ingenieria-sanitaria",
+      "path": "/Users/rodrigocarrillo/Documents/Natural Language Processing Projects/Examen SERUMS/Examenes_2026_I/8053031-011-ingenieria-sanitaria.csv",
+      "rows_read": 100,
+      "columns": [
+        "questions",
+        "option_A",
+        "option_B",
+        "option_C",
+        "option_D",
+        "correct_answer"
+      ],
+      "read_ok": true,
+      "error": null
+    },
+    {
+      "convocatoria": "Examenes_2026_I",
+      "area": "8053031-012-laboratorio",
+      "path": "/Users/rodrigocarrillo/Documents/Natural Language Processing Projects/Examen SERUMS/Examenes_2026_I/8053031-012-laboratorio.csv",
+      "rows_read": 100,
+      "columns": [
+        "questions",
+        "option_A",
+        "option_B",
+        "option_C",
+        "option_D",
+        "correct_answer"
+      ],
+      "read_ok": true,
+      "error": null
+    },
+    {
+      "convocatoria": "Examenes_2026_I",
+      "area": "8053031-013-radiologia",
+      "path": "/Users/rodrigocarrillo/Documents/Natural Language Processing Projects/Examen SERUMS/Examenes_2026_I/8053031-013-radiologia.csv",
+      "rows_read": 100,
+      "columns": [
+        "questions",
+        "option_A",
+        "option_B",
+        "option_C",
+        "option_D",
+        "correct_answer"
+      ],
+      "read_ok": true,
+      "error": null
+    },
+    {
+      "convocatoria": "Examenes_2026_I",
+      "area": "8053031-014-terapia-fisica",
+      "path": "/Users/rodrigocarrillo/Documents/Natural Language Processing Projects/Examen SERUMS/Examenes_2026_I/8053031-014-terapia-fisica.csv",
+      "rows_read": 100,
+      "columns": [
+        "questions",
+        "option_A",
+        "option_B",
+        "option_C",
+        "option_D",
+        "correct_answer"
+      ],
+      "read_ok": true,
+      "error": null
+    },
+    {
+      "convocatoria": "Examenes_2026_I",
+      "area": "8053031-015-terapia-del-lenguaje",
+      "path": "/Users/rodrigocarrillo/Documents/Natural Language Processing Projects/Examen SERUMS/Examenes_2026_I/8053031-015-terapia-del-lenguaje.csv",
+      "rows_read": 100,
+      "columns": [
+        "questions",
+        "option_A",
+        "option_B",
+        "option_C",
+        "option_D",
+        "correct_answer"
+      ],
+      "read_ok": true,
+      "error": null
+    },
+    {
+      "convocatoria": "Examenes_2026_I",
+      "area": "8053031-016-terapia-ocupacional",
+      "path": "/Users/rodrigocarrillo/Documents/Natural Language Processing Projects/Examen SERUMS/Examenes_2026_I/8053031-016-terapia-ocupacional.csv",
+      "rows_read": 100,
+      "columns": [
+        "questions",
+        "option_A",
+        "option_B",
+        "option_C",
+        "option_D",
+        "correct_answer"
+      ],
+      "read_ok": true,
+      "error": null
+    },
+    {
+      "convocatoria": "Examenes_2026_I",
+      "area": "8053031-017-optometria",
+      "path": "/Users/rodrigocarrillo/Documents/Natural Language Processing Projects/Examen SERUMS/Examenes_2026_I/8053031-017-optometria.csv",
+      "rows_read": 100,
+      "columns": [
+        "questions",
+        "option_A",
+        "option_B",
+        "option_C",
+        "option_D",
+        "correct_answer"
+      ],
+      "read_ok": true,
+      "error": null
+    }
+  ]
+}

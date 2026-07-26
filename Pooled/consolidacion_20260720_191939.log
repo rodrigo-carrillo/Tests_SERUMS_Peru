@@ -1,0 +1,136 @@
+2026-07-20 19:19:39 | INFO    | ══════════════════════════════════════════════════════════════════════
+2026-07-20 19:19:39 | INFO    | Consolidación de exámenes SERUMS
+2026-07-20 19:19:39 | INFO    | Directorio base : /Users/rodrigocarrillo/Documents/Natural Language Processing Projects/Examen SERUMS
+2026-07-20 19:19:39 | INFO    | Carpetas        : ['Examenes_2025_I', 'Examenes_2025_II', 'Examenes_2026_I']
+2026-07-20 19:19:39 | INFO    | Salida          : /Users/rodrigocarrillo/Documents/Natural Language Processing Projects/Examen SERUMS/consolidado
+2026-07-20 19:19:39 | INFO    | ══════════════════════════════════════════════════════════════════════
+2026-07-20 19:19:39 | INFO    | [Examenes_2025_I] — 32 archivo(s) CSV encontrado(s)
+2026-07-20 19:19:39 | INFO    |   ✓ 6664196-biologia-tipo-a.csv                        | filas:  100 | area='6664196-biologia-tipo-a'
+2026-07-20 19:19:39 | INFO    |   ✓ 6664196-biologia-tipo-b.csv                        | filas:  100 | area='6664196-biologia-tipo-b'
+2026-07-20 19:19:39 | INFO    |   ✓ 6664196-enfermeria-tipo-a.csv                      | filas:  100 | area='6664196-enfermeria-tipo-a'
+2026-07-20 19:19:39 | INFO    |   ✓ 6664196-farmacia-tipo-a.csv                        | filas:  100 | area='6664196-farmacia-tipo-a'
+2026-07-20 19:19:39 | INFO    |   ✓ 6664196-farmacia-tipo-b.csv                        | filas:  100 | area='6664196-farmacia-tipo-b'
+2026-07-20 19:19:39 | INFO    |   ✓ 6664196-ingenieria-sanitaria-tipo-a.csv            | filas:  100 | area='6664196-ingenieria-sanitaria-tipo-a'
+2026-07-20 19:19:39 | INFO    |   ✓ 6664196-laboratorio-clinico-tipo-a.csv             | filas:  100 | area='6664196-laboratorio-clinico-tipo-a'
+2026-07-20 19:19:39 | INFO    |   ✓ 6664196-laboratorio-clinico-tipo-b.csv             | filas:  100 | area='6664196-laboratorio-clinico-tipo-b'
+2026-07-20 19:19:39 | INFO    |   ✓ 6664196-medicina-tipo-a.csv                        | filas:  100 | area='6664196-medicina-tipo-a'
+2026-07-20 19:19:39 | INFO    |   ✓ 6664196-medicina-tipo-b.csv                        | filas:  100 | area='6664196-medicina-tipo-b'
+2026-07-20 19:19:39 | INFO    |   ✓ 6664196-nutricion-tipo-a.csv                       | filas:  100 | area='6664196-nutricion-tipo-a'
+2026-07-20 19:19:39 | INFO    |   ✓ 6664196-nutricion-tipo-b.csv                       | filas:  100 | area='6664196-nutricion-tipo-b'
+2026-07-20 19:19:39 | INFO    |   ✓ 6664196-obstetricia-tipo-a.csv                     | filas:  100 | area='6664196-obstetricia-tipo-a'
+2026-07-20 19:19:39 | INFO    |   ✓ 6664196-obstetricia-tipo-b.csv                     | filas:  100 | area='6664196-obstetricia-tipo-b'
+2026-07-20 19:19:39 | INFO    |   ✓ 6664196-odontologia-tipo-a.csv                     | filas:  100 | area='6664196-odontologia-tipo-a'
+2026-07-20 19:19:39 | INFO    |   ✓ 6664196-odontologia-tipo-b.csv                     | filas:  100 | area='6664196-odontologia-tipo-b'
+2026-07-20 19:19:39 | INFO    |   ✓ 6664196-optometria-tipo-a.csv                      | filas:  100 | area='6664196-optometria-tipo-a'
+2026-07-20 19:19:39 | INFO    |   ✓ 6664196-optometria-tipo-b.csv                      | filas:  100 | area='6664196-optometria-tipo-b'
+2026-07-20 19:19:39 | INFO    |   ✓ 6664196-psicologia-tipo-a.csv                      | filas:  100 | area='6664196-psicologia-tipo-a'
+2026-07-20 19:19:39 | INFO    |   ✓ 6664196-psicologia-tipo-b.csv                      | filas:  100 | area='6664196-psicologia-tipo-b'
+2026-07-20 19:19:39 | INFO    |   ✓ 6664196-radiologia-tipo-a.csv                      | filas:  100 | area='6664196-radiologia-tipo-a'
+2026-07-20 19:19:39 | INFO    |   ✓ 6664196-radiologia-tipo-b.csv                      | filas:  100 | area='6664196-radiologia-tipo-b'
+2026-07-20 19:19:39 | INFO    |   ✓ 6664196-terapia-del-lenguaje-tipo-a.csv            | filas:  100 | area='6664196-terapia-del-lenguaje-tipo-a'
+2026-07-20 19:19:39 | INFO    |   ✓ 6664196-terapia-del-lenguaje-tipo-b.csv            | filas:  100 | area='6664196-terapia-del-lenguaje-tipo-b'
+2026-07-20 19:19:39 | INFO    |   ✓ 6664196-terapia-fisica-tipo-a.csv                  | filas:  100 | area='6664196-terapia-fisica-tipo-a'
+2026-07-20 19:19:39 | INFO    |   ✓ 6664196-terapia-fisica-tipo-b.csv                  | filas:  100 | area='6664196-terapia-fisica-tipo-b'
+2026-07-20 19:19:39 | INFO    |   ✓ 6664196-terapia-ocupacional-tipo-a.csv             | filas:  100 | area='6664196-terapia-ocupacional-tipo-a'
+2026-07-20 19:19:39 | INFO    |   ✓ 6664196-terapia-ocupacional-tipo-b.csv             | filas:  100 | area='6664196-terapia-ocupacional-tipo-b'
+2026-07-20 19:19:39 | INFO    |   ✓ 6664196-trabajo-social-tipo-a.csv                  | filas:  100 | area='6664196-trabajo-social-tipo-a'
+2026-07-20 19:19:39 | INFO    |   ✓ 6664196-trabajo-social-tipo-b.csv                  | filas:  100 | area='6664196-trabajo-social-tipo-b'
+2026-07-20 19:19:39 | INFO    |   ✓ 6664196-veterinaria-tipo-a.csv                     | filas:  100 | area='6664196-veterinaria-tipo-a'
+2026-07-20 19:19:39 | INFO    |   ✓ 6664196-veterinaria-tipo-b.csv                     | filas:  100 | area='6664196-veterinaria-tipo-b'
+2026-07-20 19:19:39 | INFO    | [Examenes_2025_II] — 17 archivo(s) CSV encontrado(s)
+2026-07-20 19:19:39 | INFO    |   ✓ 7084225-biologia.csv                               | filas:  100 | area='7084225-biologia'
+2026-07-20 19:19:39 | INFO    |   ✓ 7084225-enfermeria_claves.csv                      | filas:  100 | area='7084225-enfermeria_claves'
+2026-07-20 19:19:39 | INFO    |   ✓ 7084225-farmacia-y-bioquimica.csv                  | filas:  100 | area='7084225-farmacia-y-bioquimica'
+2026-07-20 19:19:39 | INFO    |   ✓ 7084225-ing-sanitaria.csv                          | filas:  100 | area='7084225-ing-sanitaria'
+2026-07-20 19:19:39 | INFO    |   ✓ 7084225-medicina-veterinaria.csv                   | filas:  100 | area='7084225-medicina-veterinaria'
+2026-07-20 19:19:39 | INFO    |   ✓ 7084225-medicina.csv                               | filas:  100 | area='7084225-medicina'
+2026-07-20 19:19:39 | INFO    |   ✓ 7084225-nutricion.csv                              | filas:  100 | area='7084225-nutricion'
+2026-07-20 19:19:39 | INFO    |   ✓ 7084225-obstetricia.csv                            | filas:  100 | area='7084225-obstetricia'
+2026-07-20 19:19:39 | INFO    |   ✓ 7084225-odontologia.csv                            | filas:  100 | area='7084225-odontologia'
+2026-07-20 19:19:39 | INFO    |   ✓ 7084225-psicologia.csv                             | filas:  100 | area='7084225-psicologia'
+2026-07-20 19:19:39 | INFO    |   ✓ 7084225-tm-laboratorio.csv                         | filas:  100 | area='7084225-tm-laboratorio'
+2026-07-20 19:19:39 | INFO    |   ✓ 7084225-tm-optometria.csv                          | filas:  100 | area='7084225-tm-optometria'
+2026-07-20 19:19:39 | INFO    |   ✓ 7084225-tm-radiologia.csv                          | filas:  100 | area='7084225-tm-radiologia'
+2026-07-20 19:19:39 | INFO    |   ✓ 7084225-tm-t-fisica.csv                            | filas:  100 | area='7084225-tm-t-fisica'
+2026-07-20 19:19:39 | INFO    |   ✓ 7084225-tm-t-lenguaje.csv                          | filas:  100 | area='7084225-tm-t-lenguaje'
+2026-07-20 19:19:39 | INFO    |   ✓ 7084225-tm-t-ocupacional.csv                       | filas:  100 | area='7084225-tm-t-ocupacional'
+2026-07-20 19:19:39 | INFO    |   ✓ 7084225-trabajo-social.csv                         | filas:  100 | area='7084225-trabajo-social'
+2026-07-20 19:19:39 | INFO    | [Examenes_2026_I] — 17 archivo(s) CSV encontrado(s)
+2026-07-20 19:19:39 | INFO    |   ✓ 8053031-001-medicina.csv                           | filas:  100 | area='8053031-001-medicina'
+2026-07-20 19:19:39 | INFO    |   ✓ 8053031-002-enfermeria.csv                         | filas:  100 | area='8053031-002-enfermeria'
+2026-07-20 19:19:39 | INFO    |   ✓ 8053031-003-odontologia.csv                        | filas:  100 | area='8053031-003-odontologia'
+2026-07-20 19:19:39 | INFO    |   ✓ 8053031-004-obstetricia.csv                        | filas:  100 | area='8053031-004-obstetricia'
+2026-07-20 19:19:39 | INFO    |   ✓ 8053031-005-psicologia.csv                         | filas:  100 | area='8053031-005-psicologia'
+2026-07-20 19:19:39 | INFO    |   ✓ 8053031-006-trabajo-social.csv                     | filas:  100 | area='8053031-006-trabajo-social'
+2026-07-20 19:19:39 | INFO    |   ✓ 8053031-007-veterinaria.csv                        | filas:  100 | area='8053031-007-veterinaria'
+2026-07-20 19:19:39 | INFO    |   ✓ 8053031-008-nutricion.csv                          | filas:  100 | area='8053031-008-nutricion'
+2026-07-20 19:19:39 | INFO    |   ✓ 8053031-009-biologia.csv                           | filas:  100 | area='8053031-009-biologia'
+2026-07-20 19:19:39 | INFO    |   ✓ 8053031-010-farmacia.csv                           | filas:  100 | area='8053031-010-farmacia'
+2026-07-20 19:19:39 | INFO    |   ✓ 8053031-011-ingenieria-sanitaria.csv               | filas:  100 | area='8053031-011-ingenieria-sanitaria'
+2026-07-20 19:19:39 | INFO    |   ✓ 8053031-012-laboratorio.csv                        | filas:  100 | area='8053031-012-laboratorio'
+2026-07-20 19:19:39 | INFO    |   ✓ 8053031-013-radiologia.csv                         | filas:  100 | area='8053031-013-radiologia'
+2026-07-20 19:19:39 | INFO    |   ✓ 8053031-014-terapia-fisica.csv                     | filas:  100 | area='8053031-014-terapia-fisica'
+2026-07-20 19:19:39 | INFO    |   ✓ 8053031-015-terapia-del-lenguaje.csv               | filas:  100 | area='8053031-015-terapia-del-lenguaje'
+2026-07-20 19:19:39 | INFO    |   ✓ 8053031-016-terapia-ocupacional.csv                | filas:  100 | area='8053031-016-terapia-ocupacional'
+2026-07-20 19:19:39 | INFO    |   ✓ 8053031-017-optometria.csv                         | filas:  100 | area='8053031-017-optometria'
+2026-07-20 19:19:39 | INFO    | ──────────────────────────────────────────────────────────────────────
+2026-07-20 19:19:39 | INFO    | Total de filas    : 6,600
+2026-07-20 19:19:39 | INFO    | Total de columnas : 8
+2026-07-20 19:19:39 | INFO    | Columnas          : ['convocatoria', 'area', 'questions', 'option_A', 'option_B', 'option_C', 'option_D', 'correct_answer']
+2026-07-20 19:19:39 | INFO    | Distribución por convocatoria:
+2026-07-20 19:19:39 | INFO    |   • Examenes_2025_I            3200 preguntas
+2026-07-20 19:19:39 | INFO    |   • Examenes_2025_II           1700 preguntas
+2026-07-20 19:19:39 | INFO    |   • Examenes_2026_I            1700 preguntas
+2026-07-20 19:19:39 | INFO    | Distribución por área (top 20):
+2026-07-20 19:19:39 | INFO    |   • 6664196-biologia-tipo-a                    100 preguntas
+2026-07-20 19:19:39 | INFO    |   • 8053031-001-medicina                       100 preguntas
+2026-07-20 19:19:39 | INFO    |   • 7084225-ing-sanitaria                      100 preguntas
+2026-07-20 19:19:39 | INFO    |   • 7084225-medicina-veterinaria               100 preguntas
+2026-07-20 19:19:39 | INFO    |   • 7084225-medicina                           100 preguntas
+2026-07-20 19:19:39 | INFO    |   • 7084225-nutricion                          100 preguntas
+2026-07-20 19:19:39 | INFO    |   • 7084225-obstetricia                        100 preguntas
+2026-07-20 19:19:39 | INFO    |   • 7084225-odontologia                        100 preguntas
+2026-07-20 19:19:39 | INFO    |   • 7084225-psicologia                         100 preguntas
+2026-07-20 19:19:39 | INFO    |   • 7084225-tm-laboratorio                     100 preguntas
+2026-07-20 19:19:39 | INFO    |   • 7084225-tm-optometria                      100 preguntas
+2026-07-20 19:19:39 | INFO    |   • 7084225-tm-radiologia                      100 preguntas
+2026-07-20 19:19:39 | INFO    |   • 7084225-tm-t-fisica                        100 preguntas
+2026-07-20 19:19:39 | INFO    |   • 7084225-tm-t-lenguaje                      100 preguntas
+2026-07-20 19:19:39 | INFO    |   • 7084225-tm-t-ocupacional                   100 preguntas
+2026-07-20 19:19:39 | INFO    |   • 7084225-trabajo-social                     100 preguntas
+2026-07-20 19:19:39 | INFO    |   • 8053031-002-enfermeria                     100 preguntas
+2026-07-20 19:19:39 | INFO    |   • 6664196-biologia-tipo-b                    100 preguntas
+2026-07-20 19:19:39 | INFO    |   • 8053031-003-odontologia                    100 preguntas
+2026-07-20 19:19:39 | INFO    |   • 8053031-004-obstetricia                    100 preguntas
+2026-07-20 19:19:39 | INFO    | ──────────────────────────────────────────────────────────────────────
+2026-07-20 19:19:39 | INFO    | ══════════════════════════════════════════════════════════════════════
+2026-07-20 19:19:39 | INFO    | Iniciando validaciones
+2026-07-20 19:19:39 | INFO    | ══════════════════════════════════════════════════════════════════════
+2026-07-20 19:19:39 | INFO    | [validación] expected_columns ...
+2026-07-20 19:19:39 | INFO    |   ✓ Estructura correcta en 66 archivo(s)
+2026-07-20 19:19:39 | INFO    | [validación] row_counts_reconciliation ...
+2026-07-20 19:19:39 | INFO    |   ✓ Sin discrepancias en 66 grupo(s) (total filas: 6600)
+2026-07-20 19:19:39 | INFO    | [validación] correct_answer_values ...
+2026-07-20 19:19:39 | INFO    |   ✓ Todas las respuestas están en ['A', 'B', 'C', 'D']
+2026-07-20 19:19:39 | INFO    | [validación] empty_critical_cells ...
+2026-07-20 19:19:39 | INFO    |   ✓ Sin celdas vacías en columnas críticas
+2026-07-20 19:19:39 | INFO    | [validación] duplicate_questions_within_area ...
+2026-07-20 19:19:40 | WARNING |   ⚠ 5 grupo(s) de duplicados (10 fila(s) involucrada(s))
+2026-07-20 19:19:40 | WARNING |     • Examenes_2026_I/8053031-005-psicologia — 2 ocurrencia(s) en filas [5320, 5382]
+2026-07-20 19:19:40 | WARNING |       "¿Cuál es la ciencia que investiga la distribución y magnitud de los fenómenos patológicos, la forma en que varían entre…"
+2026-07-20 19:19:40 | WARNING |     • Examenes_2026_I/8053031-007-veterinaria — 2 ocurrencia(s) en filas [5532, 5546]
+2026-07-20 19:19:40 | WARNING |       "El fortalecimiento de capacidades del personal de salud para mejorar la calidad en un servicio específico de atención pr…"
+2026-07-20 19:19:40 | WARNING |     • Examenes_2026_I/8053031-008-nutricion — 2 ocurrencia(s) en filas [5607, 5636]
+2026-07-20 19:19:40 | WARNING |       "El fortalecimiento de capacidades del personal de salud para mejorar la calidad en un servicio específico de atención pr…"
+2026-07-20 19:19:40 | WARNING |     • Examenes_2026_I/8053031-008-nutricion — 2 ocurrencia(s) en filas [5625, 5677]
+2026-07-20 19:19:40 | WARNING |       "Si la interacción entre un paciente y el personal sanitario tratante, se da mediante uso de las TICs, ¿Qué concepto de s…"
+2026-07-20 19:19:40 | WARNING |     • Examenes_2026_I/8053031-012-laboratorio — 2 ocurrencia(s) en filas [6069, 6078]
+2026-07-20 19:19:40 | WARNING |       "Los individuos, inicialmente sin la enfermedad o el efecto de interés, forman los grupos de acuerdo a su exposición o no…"
+2026-07-20 19:19:40 | INFO    | ──────────────────────────────────────────────────────────────────────
+2026-07-20 19:19:40 | INFO    | Validaciones: 0 error(es), 1 advertencia(s)
+2026-07-20 19:19:40 | INFO    | ──────────────────────────────────────────────────────────────────────
+2026-07-20 19:19:40 | INFO    | ✓ Reporte de validación: /Users/rodrigocarrillo/Documents/Natural Language Processing Projects/Examen SERUMS/consolidado/examenes_serums_master_validation.json
+2026-07-20 19:19:40 | INFO    | ✓ Pickle guardado : /Users/rodrigocarrillo/Documents/Natural Language Processing Projects/Examen SERUMS/consolidado/examenes_serums_master.pkl
+2026-07-20 19:19:40 | INFO    | ✓ Parquet guardado: /Users/rodrigocarrillo/Documents/Natural Language Processing Projects/Examen SERUMS/consolidado/examenes_serums_master.parquet
+2026-07-20 19:19:40 | INFO    | ✓ CSV guardado   : /Users/rodrigocarrillo/Documents/Natural Language Processing Projects/Examen SERUMS/consolidado/examenes_serums_master.csv
+2026-07-20 19:19:40 | INFO    | ✓ Proceso completado con 1 advertencia(s). Revisa el JSON de reporte.
