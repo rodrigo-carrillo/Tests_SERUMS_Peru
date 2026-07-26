@@ -1,0 +1,276 @@
+﻿questions,option_A,option_B,option_C,option_D,correct_answer
+"En el caserío donde está realizando su SERUMS, se tiene la estadística de que a finales del año 2024, 
+20 niños tenían un diagnóstico de anemia de un total de 45, sin embargo, de enero a junio del año 2025 mediante 
+campañas de tamizaje se detectaron que la cantidad de niños con diagnóstico de anemia aumentó a 25, de un total 
+de 50 niños (hubieron 5 nuevos nacimientos). Indicar la tasa de incidencia por cada 100 habitantes en los primeros 
+6 meses del año.",10,50,11.1,44.4,A
+"El establecimiento de salud donde realiza su SERUMS ha remitido al centro de referencia correspondiente, el 
+formato de notificación de SRAM de una aparente RAM detectada, para que pueda ser ingresado al sistema 
+Vigiflow para su centralización por la autoridad nacional. ¿Cuál es el eje de desarrollo de telesalud que se está 
+realizando?",Teleorientación,Telegestión,Telemonitoreo,Teleconsulta,B
+"Varón acude al establecimiento I–2 y solicita al jefe del PS información acerca del tratamiento que su señora esposa 
+se realiza en Planificación Familiar todos los meses, está muy alterado. El jefe del establecimiento informa que 
+debe guardar reserva respecto a la información referente a su esposa. ¿Qué deber del servidor público se está 
+aplicando en este caso?",Transparencia,Discreción,Responsabilidad,Neutralidad,B
+"En el servicio de farmacia, un paciente varón de mediana edad, recoge medicamento para el VIH, horas después, 
+una mujer, menciona y demuestra ser la esposa del paciente anterior y consulta por el tipo de medicamentos que 
+se ha dispensado a su esposo, o al menos la confirmación de sus sospechas de ser un medicamento para ITS. ¿El 
+dispensador debe confirmar las sospechas de la esposa?","Sí, aduciendo al principio de justicia","Sí, aduciendo al principio bioético de beneficencia","No, aduciendo al principio bioético de no maleficencia","No, aduciendo al principio bioético de confidencialidad",C
+"Al realizar un estudio sobre el análisis situacional de salud en su comunidad, se detecta que las diarreas infecciosas 
+y las infecciones respiratorias son los principales problemas prioritarios en la población pediátrica. Si además se 
+indaga de manera exhaustiva que los cultivos, que posteriormente son consumidos por los mismos pobladores, se 
+riegan con aguas servidas. ¿A que fase del análisis situacional pertenece este hallazgo?",Recogida de la información,Identificación de los problemas de salud,Priorización de los problemas identificados,Análisis de los factores causales,D
+"En el servicio de farmacia se reportan varios problemas, desde el suministro de medicamentos, hasta quejas en la 
+atención a los pacientes. ¿Qué herramienta de gestión puede usar el encargado del servicio para una vez 
+identificadas saber priorizar las principales causas de los problemas?",Histograma,Diagrama de flujo,Diagrama de Pareto,Lluvia de ideas,C
+"Los medicamentos anti TB en la atención ambulatoria del primer nivel de atención debe ser directamente 
+suministrados al PAT desde...",el servicio de neumología donde se hizo el diagnóstico.,la ESPCT del establecimiento de salud.,la UNET.,el servicio de farmacia de la UNET.,B
+"¿Cuál es el tratamiento más idóneo para un paciente de 25 años con reciente diagnóstico de leishmaniasis cutánea 
+por L. peruviana y con criterios para recibir tratamiento sistémico?",Paromomicina,Antimoniales pentavalentes,Miltefosina,Isetionato de pentamidina,B
+"Las farmacias pertenecientes a establecimientos de salud de una red integrada de salud, en el ámbito de la 
+coordinación intersectorial, deben guardar similitud en cierto grado del…",horario de atención.,atención de especialidades médicas.,stock de medicamentos.,grado de instrucción del director técnico.,C
+"El director técnico de una farmacia atiende una receta donde se solicita la dispensación de cápsulas de doxiciclina 
+cada 12 horas, después del desayuno y de la cena, y suspensión de magaldrato antes del desayuno, para paciente 
+adolescente con acné inflamatorio y problemas de reflujo. Acorde a las funciones del químico farmacéutico se 
+puede sugerir...",cambiar el momento de administración del antibiótico.,cambiar el antibiótico por otro de la misma familia.,cambiar el intervalo de administración del antibiótico.,retirar el uso de magaldrato por otro análogo.,A
+"En la comunidad donde usted labora, se observa que en los últimos días, se ha presentado un aumento de casos 
+de EDA en la población en general. Al hacer las indagaciones se confirma que ha habido una fuga de aguas 
+residuales hace ya varios días. Indicar el tipo de escenario en el que nos encontramos",Brote de exposición continua,Brote de exposición unica,Brote de exposición intermitente,Epidemia de exposición única,A
+"En un centro de salud, ubicado en Lima Metropolitana, el encargado de la dispensación de medicamentos realiza 
+un mal trato durante la atención a un paciente quechuahablante. ¿Qué principio bioético estaría incurriendo en 
+falta?",Individualidad,Discriminación,Beneficencia,Justicia,D
+Forma parte del contenido mínimo de la Ficha familiar:,Estilos de vida familiares,Riesgos del entorno,Formatos de atención integral,Formatos de hospitalización familiar,B
+"En la vida cotidiana, van a existir problemas y preocupaciones, como también vínculos y dinámicas participativas, 
+enfocados a resolverlos, como la alimentación, vivienda, educación, crianza, trabajo. Estos factores corresponden 
+a la dimensión de los determinantes...",psicosociales.,culturales.,de la salud.,sociales.,D
+"El químico farmacéutico serumista elabora material educativo sobre condiciones en que se puede ejercer la 
+automedicación responsable para exponer ante la comunidad. Según la política nacional de medicamentos. ¿Qué 
+criterio avala esta actividad?",Abastecimiento de medicamentos,Funciones de los serumistas,Atención primaria de salud,Uso racional de medicamentos,D
+"Se considera un criterio de contrarreferencia injustificada, cuando:","El usuario abandona o interrumpe la continuidad de su tratamiento, a pesar de los esfuerzos para localizarlo","Se ha resuelto el problema de salud motivo de la referencia en forma parcial, siendo pertinente controles",No se tiene en cuenta la cartera de servicios y capacidad resolutiva del establecimiento a contrarreferir,El usuario fallece durante su tratamiento en el establecimiento de referencia,C
+"En un establecimiento de salud se presentó el caso de una reacción de infusión debido a la administración rápida 
+de vancomicina, generando un rash a nivel de tronco y cuello aumentando la estancia hospitalaria y aumentando 
+los costos de atención. Este caso corresponde a un:",Reacción adversa,Efecto tóxico,Error de medicación,Efecto adverso,C
+"En los últimos meses se ha observado en el consultorio que varios pacientes hipertensos han tenido dificultades 
+para controlar su presión arterial a pesar que aparentemente tienen una buena adherencia al tratamiento. Si se 
+desea realizar una investigación al respecto. ¿Cuál es el siguiente paso según el método científico?",Plantear la metodología que se utilizará,Formular el o los problemas relacionados,Separar dos grupos de pacientes para evaluar resultados,Plantear la posible respuesta al problema identificado,B
+"Paciente varón de 52 años, con reciente diagnóstico de infección por VIH y antecedente de enfermedad renal 
+crónica con una creatinina basal de 2.8 mg/dL. Se inicia tratamiento de primera línea a dosis fija combinada: 
+Tenofovir 300 mg/Lamivudina 300 mg/Dolutegravir 50 mg, además de isoniazida 300 mg c/24 h, para terapia 
+preventiva a tuberculosis. ¿Qué medicamento requiere corrección de dosis en el paciente?",Tenofovir,Dolutegravir,Lamivudina,Isoniazida,A
+"Durante una inspección de rutina, la autoridad competente encuentra en el almacén de una farmacia especializada 
+el producto Argirol solución al 2% con un stock de pocas unidades y sin tener registro sanitario. ¿Cuál es la falta 
+cometida por el químico farmacéutico responsable?","Tenerlo en stock, pues es una fórmula magistral","Ninguna, se trata de un preparado oficinal","Grave, tener producto sin registro sanitario","Doble falta, stock insuficiente y sin registro sanitario",B
+"En un establecimiento de salud de Yurimaguas se han reunido todos los profesionales de salud y han desarrollado 
+su análisis FODA. Dentro de su análisis, la mejora al acceso digital y mayor conectividad en esta zona rural se 
+considera una:",Oportunidad,Debilidad,Amenaza,Fortaleza,A
+"En el ámbito de la pertinencia cultural e inclusión. ¿Qué comunidades son ""prioridad A"" por parte de la autoridad 
+para la intervención sobre establecimientos de salud que atiendan mayoritariamente a estas poblaciones?",Afrodescendiente en zona costera,Aymara en zona costera,Étnicas en zonas amazónicas,Quecha en zona andina,C
+"Madre acude al establecimiento de salud con su recién nacido, comenta que su niño no reacciona con sonidos 
+fuertes desde que fue dado de alta; por lo que se le realiza el cribado neonatal para descartar hipoacusia. ¿Este 
+cribado a qué tipo de prevención corresponde?",Terciaria,Secundaria,Primordial,Primaria,B
+"¿A qué corresponde: ""el derecho del paciente a recibir y solicitar toda la información necesaria sobre su situación 
+de salud y tratamiento que recibirá, dentro del enfoque de la salud como derecho""?",Disponibilidad,Equidad,Accesibilidad,Calidad,C
+"Paciente mujer de 52 años con diagnóstico de hepatitis B debut, y antecedente de osteoporosis en tratamiento de 
+terapia de reemplazo hormonal, diabetes mellitus tipo 2 y ERC. ¿Cuál es el tratamiento antiviral más idóneo?",Entecavir 0.5 mg c/24 h,Interferón alfa 10 000000 U,Entecavir 1 mg c/24 h,Tenofovir 300 mg c/24 h,A
+Categoría de establecimiento que cuenta con UPSS de Farmacia de manera obligatoria:,I-4,I-1,I-2,I-3,A
+"Parte de la gestión de riesgos dentro de la oficina farmacéutica corresponde notificar a la autoridad competente 
+sospechas de reacciones adversas a medicamentos y colocar en cuarentena productos en stock que hayan sido 
+notificados por parte de la autoridad a través de…",notificación SRA.,alertas DIGEMID.,formato hoja amarilla.,casilla electrónica DIGESA/DIRESA.,B
+"El responsable técnico de la farmacia de un establecimiento de salud, verifica y solicita adquirir el stock mínimo 
+necesario según requerimientos más comunes en su servicio, stock de medicamentos esenciales, llenar registro 
+mensual de observatorio de precios. Estas acciones van acorde al concepto de…",gestión de suministro de medicamentos.,petitorio nacional de medicamentos.,buenas prácticas de oficina farmacéutica.,uso racional de medicamentos.,D
+"Puérpera atendida en un establecimiento de salud de Tumbes se le realiza control de hemoglobina, obteniéndose 
+el valor de 12.3 g/dL. ¿Cuál es el diagnóstico?",Sin anemia,Anemia severa,Anemia moderada,Anemia leve,A
+"¿Cuál es la enfermedad zoonótica relacionada al acceso a saneamiento básico, se contagia a través del contacto 
+con la orina de animales infectados o agua contaminada y su prevención a través de la protección de fuentes de 
+agua, disposición adecuada de basuras y excretas, control de roedores y protección personal?",Peste,Carbunco,Tifus,Leptospirosis,D
+"¿Qué eje temático, dentro de la promoción de salud, desarrolla un profesional competente al educar a jefes de 
+familia en el manejo de técnicas de enseñanza y entrenamiento, en formación de responsabilidad y valores, 
+aplicables a sus hijos menores?",Buen trato y cultura de paz,Desarrollo de habilidades cognitivas,Etapa niño - adolescente,Equidad de etapas de la vida,A
+"¿A qué corresponde: ""las acciones que las personas toman para sí mismos y sus familias con la finalidad de 
+mantener en buen estado físico y mental, satisfacer sus necesidades psicológicas y sociales; prevenir la 
+enfermedad o accidentes; cuidar sus dolencias menores y afecciones a largo plazo; y mantener la salud y el 
+bienestar después de una enfermedad aguda o al alta del hospital""?",Cuidado familiar,Autocuidado,Cuidado integral,Protección individual,B
+"La prescripción de omeprazol, y otros inhibidores de bomba de protones, como terapia adicional para todo paciente 
+polimedicado o utilizando tratamiento antimicrobiano aumenta el riesgo de molestias gastrointestinales, 
+disminución de absorción de Vit. B12 y de interacciones medicamentosas. La intervención que busca disminuir su 
+prescripción para los pacientes que no tienen criterios que amerite su uso, hace referencia a una medida de 
+prevención:",Terciaria,Primordial,Cuaternaria,Secundaria,C
+"Son actividades de atención directa y de cumplimiento obligatorio en establecimientos de salud I-2 con población 
+asignada:",Atención de la gestante sin complicaciones en el período de parto,Actividades de Farmacovigilancia por el área de Farmacia clínica,Realizar exámenes de radiología dental,Prevención y diagnóstico precoz del cáncer,D
+"Niña de 8 meses es llevada a su control de  niño sano a un establecimiento de salud de la sierra central, madre 
+refiere que no tomó el suplemento preventivo de hierro desde los 7 meses, se le hace dosaje de hemoglobina con 
+un valor de 11.5 g/dL (con factor de corrección). ¿Cuál es la conducta a seguir respecto a su suplementación?",Iniciar tratamiento para la anemia con evaluación médica,Continuar con la dosis preventiva durante 3 meses y repetir dosaje de hemoglobina,"Continuar con la dosis preventiva hasta los 6 meses, previa consejería",Iniciar un nuevo esquema de suplementación preventiva y dar consejería,C
+"Un equipo de profesionales sanitarios llega a brindar servicio a una zona rural, donde solo se brindaba atención 
+sanitaria por el curandero local, quien acaba de fallecer sin dejar sucesor. ¿Qué modalidad de aculturación debe 
+continuar con respecto al servicio de salud?",Sustitución,Sincretismo,Simbiosis,Rechazo,A
+"En una comunidad nativa, se reporta un caso confirmado de rabia en bovino y desde la presencia de mineros 
+informales se observan murciélagos que vuelan por la noche. ¿Cuál es la medida más efectiva para prevenir 
+transmisión de rabia silvestre en esa comunidad?",Eliminación de refugios de murciélagos con la comunidad organizada,Organización de la comunidad para la captura de murciélagos,Colocar mallas en todas las viviendas de la comunidad,Proteger con vacuna pre exposición a toda la comunidad,D
+"Si un instrumento para medir los factores que influyen en la adherencia al uso de sus medicamentos, solamente 
+mide la memoria del paciente para recordar su tratamiento, entonces se carece de validez ...",de criterio.,concurrente.,predictiva.,de contenido.,D
+"Se está realizando un estudio epidemiológico a nivel nacional, impulsado por el Ministerio de Salud, para determinar 
+la incidencia y prevalencia actual de malaria, así como las variaciones de las tasas de incidencia de la especie 
+del agente etiológico y comparaciones con las tasas de años anteriores. Señalar el tipo de vigilancia epidemiológica 
+al que se hace referencia:",Especializada,Pasiva,Activa,Centinela,A
+"Un serumista planifica un taller informativo con la participación de la comunidad rural perteneciente al lugar donde 
+realiza su servicio, sobre el uso racional de medicamentos. ¿Qué estrategia, dentro del plan de promoción de la 
+salud, está utilizando?",Participación comunitaria,Comunicación para la salud,Basada en Interculturalidad,Políticas públicas,B
+Es una actividad específica del establecimiento de origen de la referencia en caso de emergencia:,Coordinar la referencia con el establecimiento de destino en forma directa,Coordinar detalles del cuidado durante el traslado del usuario con el encargado del establecimiento de destino,Monitorear que el paciente llegue al establecimiento de destino,Archivar la hoja de referencia en la historia clínica y hacer llegar una copia al responsable del SRC,B
+"Fase del ciclo del planeamiento estratégico sectorial multianual en donde se obtienen los escenarios basados en 
+el análisis de tendencias, riesgos, oportunidades y aspiraciones de la población:",Análisis prospectivo,Análisis de la situación actual,Decisión estratégica,Seguimiento y evaluación,A
+"Se debe diseñar e implementar las medidas de mitigación apropiadas para el país y relacionar al reaprovechamiento 
+de residuos sólidos orgánicos, y reducir las emisiones de gases de efecto invernadero considerando su importancia 
+en relación a la composición nacional de los residuos sólidos. Para Ud. ¿Qué institución debe realizar esta gestión?",Los hospitales,Ministerio del ambiente,Ministerio de salud,Las universidades,B
+"Alberto cría 50 gallinas y 50 patos en su vivienda, acude al centro porque la mitad de sus aves amanecieron muertas 
+y muchas tienen ""moquillo"", quiere comprar alguna medicina para tratar a su aves enfermas. ¿A qué tipo de evento 
+corresponde el caso y cuál es la conducta a seguir?",Es una zoonosis y debe reportarse al sistema de vigilancia epidemiológica,Es un evento usual y su manejo solo corresponde a SENASA y al municipio,Es una epizootia y debe notificarse al sistema de vigilancia epidemiológica,Es una zoonosis y se debe eliminar a las aves enfermas en coordinación con el municipio,C
+"El químico farmacéutico atiende un paciente adulto que mediante una receta médica busca jarabe de cetirizina 5 
+mg/5 mL de la marca comercial “x”, ante la ausencia de stock de ese producto específico. ¿Qué otra opción puede 
+ser sugerida por el dispensador?",Tabletas de cetirizina 5 mg marca comercial “x”,Jarabe de cetirizina 5 mg/5 mL marca comercial “y”,Jarabe de cetirizina 10 mg/5 mL marca comercial “x”,Cápsulas blandas cetirizina marca comercial “y”,B
+"Paciente mujer de 25 años, con antecedente de trastorno de ansiedad generalizada, llega al establecimiento de 
+salud; refiere que su hijo de 7 días de nacido, presenta temblores en extremidades, despertar súbito, irritabilidad 
+y sudoración. Además refiere que durante su embarazo a consumido una serie de medicamentos sin prescripción 
+médica (clorfeniramina, fluoxetina, clonazepam, paracetamol). ¿Cuál es el posible medicamento causante del 
+problema en el recién nacido?",Clonazepam,Paracetamol,Clorfeniramina,Fluoxetina,A
+"Conjunto de relaciones relativamente estables, de naturaleza no jerárquica e independiente, que vinculan actores 
+que intercambian recursos para conseguir intereses comunes. La definición anterior, dentro del marco de promoción 
+de la salud. ¿A qué población sujeto de intervención corresponde?",Redes sociales comunitarias,Participación comunidad – municipio,Comunicación y educación en salud,Interacciones intrafamiliares,A
+"En la posta médica en la cual usted realiza su SERUMS ingresa un paciente varón de 19 años de edad, con status 
+epiléptico de novo que logra ser controlado con fenitoína 15 mg/kg IV, por lo que posteriormente se refiere al 
+paciente a un centro de salud de mayor complejidad para que sea evaluado por el especialista y pueda ampliarse 
+el diagnóstico y continuar su tratamiento. ¿A qué característica del modelo de Cuidado Integral de Salud por curso 
+de vida se hace referencia?",Coordinación,Accesibilidad,Longitudinalidad,Integralidad,A
+Un establecimiento de salud de categoría I-3 cuenta como mínimo con la UPSS de consulta externa y...,farmacia.,hospitalización.,patología clínica.,centro obstétrico.,C
+"Durante la dispensación de un dispositivo médico termosensible, se cuenta con distintos lotes del mismo producto, 
+los cuales tienen diferentes fechas de ingreso al almacén y distintas fechas de caducidad. ¿Qué criterio debe 
+seguirse para escoger el lote a dispensar?",ISO 9001,BPA,FIFO,FEFO,D
+"Durante la visita a la comunidad los vecinos indican que un vecino se encuentra solo en su domicilio, el personal 
+verifica que se trata de un adulto mayor con signos de desnutrición y descuidado. ¿Qué actitud debe tomar el 
+personal de salud?",Buscar a sus familiares para que se hagan cargo del adulto mayor,Cuidado integral e integrado de salud del adulto mayor en la comunidad,Invitarlo a ser parte del círculo del adulto mayor que tiene la municipalidad,El personal no tiene responsabilidad en en el marco de sus competencias,B
+"Una madre de familia acude a un establecimiento de salud I-2 con su niño de 6 meses de edad, refiere que desde 
+hace 15 días presenta: tos persistente, fiebre, a la evaluación se evidencia rubicundo, dificultad para respirar y 
+lactar; en cartilla de vacunación se encuentra dosis incompleta de vacuna pentavalente. ¿Cuál es la medida de 
+bioseguridad prioritaria para el personal de salud en la atención ambulatoria?",Vacunación inmediata,Calzado de guantes,Higienización de manos,Uso de mascarilla,D
+"Para asegurar las condiciones sanitarias de inocuidad alimentaria, en el servicio de alimentación del centro de salud 
+de Pataz, se ha desarrollado una charla sobre las buenas prácticas de manipulación en la elaboración de alimentos. 
+El proceso de cocción de los alimentos se realiza en la siguiente etapa:",Elaboración previa,Acondicionamiento,Elaboración intermedia,Elaboración final,C
+"Un profesional de la salud, que después de realizar sesiones individualizadas con pacientes fumadores, logra que 
+el 75% de pacientes intervenidos logren reducir sus hábitos de fumar, en un lapso de 18 meses, ha usado la 
+estrategia de promoción de la salud conocida como…",manejo de psicología inversa.,reducción de hábitos nocivos.,habilidades para la vida.,comunicación y educación en salud.,D
+"En el neonato, el contacto piel a piel, la lactancia materna y la vacunación. ¿A qué tipo de prevención corresponden?",Terciaria,Cuaternaria,Primaria,Secundaria,C
+"En un equipo de salud, el personal  que organiza discusiones para tomar decisiones, toma en cuenta las 
+sugerencias y opiniones de todos los miembros, ejerce un tipo de liderazgo…",directivo.,de equipo.,libre.,coactivo.,B
+"Asegurar el acceso y el uso racional de medicamentos y otras tecnologías sanitarias esenciales de calidad, seguras 
+y eficaces corresponde al subgrupo de FESP:",Desarrollo de políticas,Asignación de recursos,Acceso,Evaluación,B
+"En la división del área total de una farmacia especializada en producción de fórmulas magistrales. ¿Qué zona debe 
+considerarse obligatoriamente para su distribución?",Evaluación farmacéutica,Maquinarias,Envasado,Control de calidad,A
+"El químico farmacéutico de un establecimiento de salud nivel II, debe remitir las notificaciones de sospecha de 
+reacción adversa al…",comité de farmacovigilancia del centro de salud.,DIGEMID.,director del centro de salud.,centro de referencia regional.,D
+"¿Cuál es el paso indicado, en el fortalecimiento de las capacidades del personal de salud para el desarrollo 
+del diálogo intercultural en salud?",Identificar a los actores sociales que participarán en el diálogo,Elaborar el perfil de los facilitadores interculturales,Reunir a representantes del sector salud y del gobierno local,Priorizar problemas identificados por cada actor social,B
+"En un establecimiento de salud, el equipo de seguridad y salud como parte de la prevención y control de los riesgos 
+laborales y psicosociales debe realizar:",Promover equipos de personal,Respetar los horarios de trabajo,Campañas de salud emocional,Capacitar a la población,C
+"En el servicio de farmacia de un establecimiento de salud rural, se ha designado un espacio adecuado para atender 
+la preparación de fórmulas oficinales básicas, el químico farmacéutico a cargo debe solicitar equipos de protección 
+personal para dicha tarea. ¿Cuál debe ser el sustento técnico de dicha solicitud?",La NTP de elaboración de preparados farmacéuticos,La ficha de seguridad de cada insumo,El procedimiento operativo estándar,El mismo documento que otras áreas del establecimiento,B
+"En el establecimiento de salud ""Casapalca"" se está realizando una auditoría de salud para verificar y mejorar la 
+calidad de atención en los servicios de salud, por múltiples quejas recibidas respecto al tiempo de espera en 
+consultorios externos. Para ello el auditor procede con el debido cuidado, de acuerdo con la importancia de la tarea 
+que desempeña y la confianza depositada en él por la entidad o servicio auditado, en resguardo de los intereses y 
+derechos de los usuarios. ¿Qué principio de auditoría está aplicando?",Diligencia,Independencia,Veracidad,Objetividad,A
+"El stock de medicamentos en una farmacia perteneciente a una red de salud debe estar acorde cualitativamente 
+a…",el doble del mínimo demandado.,el volumen demandado poblacional.,las guías clínicas de tratamiento.,procedimiento operativo estándar.,C
+"Desde el municipio de la comunidad rural Mashankaino, se desea implementar iniciativas enmarcadas en la 
+promoción de la salud. ¿Cuál de las siguientes opciones es un eje temático competente para abordar esta iniciativa?",Derecho en interculturalidad,Equidad de género,Seguridad vial,Comunicación e información en salud,C
+"¿Cuál es el indicador que permite determinar y dar a conocer la distribución de las determinantes sociales de la 
+salud, la morbimortalidad en territorios o grupos poblacionales de un ámbito geográfico determinado?",Razón de riesgo de evento de interés sanitario,Concentración de un evento de interés sanitario,Diferencia de riesgo de un evento de un interés sanitario,Crecimiento de un evento de interés sanitario,B
+"¿Cuál es el documento en el cual se encuentran establecidos los objetivos estratégicos institucionales que buscan 
+garantizar los derechos de salud de la población?",PEI,MAPRO,POE,POI,A
+"¿Quién es responsable directo de la gestión del SISMED y del soporte logístico y administrativo en un puesto de 
+salud?",El director de la unidad ejecutora,La DIRESA o quien haga sus veces,El jefe del establecimiento,El químico farmacéutico del establecimiento,C
+"Si una persona de bajos recursos, ambulante, acude a una oficina farmacéutica donde usted labora y le 
+solicita información sobre donde debe recibir atención gratuita. Según la ley de aseguramiento universal. ¿A dónde 
+se le debe referir?",A ESSALUD,Al EE.SS. de 1er nivel de su jurisdicción,Al hospital de solidaridad,Al hospital de referencia,B
+"La Obstetra del establecimiento de salud de Arequipa, recibe a una mujer de 28 años quechua hablante en trabajo 
+de parto; se presenta, la saluda y le brinda atención del parto con adecuación intercultural. ¿A qué principio ético 
+como servidor público alude su actuar?",Justicia y equidad,Lealtad y obediencia,Eficiencia,Responsabilidad,A
+"El director técnico de una farmacia debe realizar el requerimiento para proveer la sala de atención de partos, donde 
+se realizan partos en posición vertical y horizontal. ¿Qué medicamentos se requieren en el parto vertical y no en el 
+horizontal?",Oxitocina sulfato,Se utiliza lo mismo,Bacitracina clorhidrato,Oxitocina clorhidrato,B
+"Dentro del modelo de la RIS, la referencia de como las personas experimenten el nivel de integración de los 
+servicios de salud, de manera coherente y conectados entre sí. ¿En que atributo de la APS se basa?",Continuidad de la atención,Integralidad,Longitudinalidad,Primer contacto,A
+"En un establecimiento  de salud con pertinencia intercultural certificado. ¿Qué acciones deben evitarse por parte 
+del personal sanitario?",Portar vestimentas similares a los pobladores,Recomendar infusiones medicinales autóctonas,Derivar al paciente con el curandero local,Realizar rituales similar al curandero,D
+"En términos de salud pública. ¿A qué corresponde; una concentración de Hb por debajo de 2 desviaciones 
+estándar del promedio según género, edad y altura a nivel del mar?",Anemia,Hemoconcentración,Hemorragia,Policitemia,A
+"¿Qué herramienta puede usarse al inicio del servicio de seguimiento farmacoterapéutico para conocer el grado de 
+adherencia al tratamiento?",Test de Graham,Test de Mark-Swulkoiski,Test de Loreena Mc Kennit,Test de Morisky-Green-Levine,D
+"En el centro de salud de Quiruvilca, se plantea realizar un programa de atención a los pacientes con criterios de 
+prediabetes, en los cuales se hará visitas mensuales en su domicilio, promoviendo la alimentación saludable, 
+realización de actividad física, adherencia a medicación y control de glicemia. Estas medidas forman parte del 
+elemento conceptual de la atención primaria de salud...",activa.,integrada.,integral.,accesible.,A
+"¿Cómo se denominan; a las fases o eventos de transporte del producto farmacéutico y dispositivo médico termo-
+sensible desde su fabricación hasta su recepción por el usuario final, manteniendo la temperatura dentro de las 
+especificaciones aprobadas?",Cadena de frío,Congelación,Calibración,Monitoreo,A
+¿Qué prueba convencional podría emplear para detectar tuberculosis si se encuentra en un lugar rural?,Pruebas moleculares,Baciloscopía,Pruebas con sondas lineales,Inmunocromatográfica,B
+"Dentro del esquema de gestión de riesgos en condiciones normales de trabajo o situaciones de emergencia, es 
+recomendable analizar el grado de vulnerabilidad ante un riesgo para una actividad, para lo cual se identifican las 
+amenazas, se valora la gravedad y se debe establecer la …",acción preventiva.,clasificación del tipo de desastre.,probabilidad u ocurrencia.,acción correctiva.,C
+"El servicio de atención primaria desea identificar eventos relacionados con la seguridad del paciente durante el 
+proceso asistencial. ¿Qué eventos debe tomar en cuenta?",Variación en guías clínicas,Uso de medicamentos genéricos,Infecciones asociadas a la atención de salud,Realización de pruebas innecesarias,C
+"El responsable técnico de una farmacia especializada, después de atender la dispensación de un medicamento, 
+registra los datos correspondientes a dicha atención en el libro de recetas. ¿Cuál es el producto que ha dispensado?",Cualquier medicamento que cuente con receta médica,Alprazolam,Alcohol boricado,Azitromicina,C
+"El reporte de la última vigilancia vectorial del Aedes aegypti en una comunidad es IA=3, por lo que el personal 
+programa el control focal al 100% de viviendas; esta actividad debe promover la participación de la comunidad en 
+el control larvario físico / mecánico, que consiste en:",Control biológico y uso de larvicida en viviendas con criaderos positivos,Nebulización espacial y eliminación de criaderos en coordinación con las autoridades,Uso de larvicida al 100% de viviendas con potenciales criaderos,Cepillar y tapar recipientes de agua y eliminar o disponer adecuadamente los potenciales criaderos,D
+"Un serumista que inicia labores en un centro de salud, que cuenta con el reconocimiento oficial de ""pertinencia en 
+salud"", debe esperar que, según las características de la población que se atiende en dicho centro, ...",repita actos rituales similares al curandero local.,empiece su turno desde las 4 am si es necesario.,se limite a practicar la medicina científica.,maneje necesariamente el idioma nativo de la población.,B
+"Un equipo de profesionales sanitarios llega a brindar servicio a una zona rural, donde solo se brindaba atención 
+sanitaria por el curandero local, quien acaba de fallecer. ¿Qué acción debe priorizar el líder del equipo para prevenir 
+conflictos con la población?",Recalcar a su equipo sobre el respeto de las prácticas medicinales en la zona,Validar eficacia de las practicas tradicionales en esa zona rural,Difundir a la población que la medicina científica es más segura y eficaz,Informar a la población de la transición al nuevo sistema médico que implementarán,A
+"Posterior al alta médica, el químico farmacéutico está facultado para revisar idoneidad de la medicación y cálculo 
+de la dosificación de un paciente con ciertos criterios de elegibilidad y con aceptación previa y voluntaria del 
+paciente y sugerir al prescriptor un ajuste si fuera necesario. Este contexto pertenece al servicio de farmacia 
+llamado…",formulación magistral.,seguimiento farmacoterapéutico.,farmacovigilancia y tecnovigilancia.,dispensación.,B
+"Se desea implementar la receta electrónica en el establecimiento de salud donde usted labora, por lo que hay que 
+tener en cuenta los campos que permiten la trazabilidad de los procesos de atención en salud y de gestión 
+relacionados con el paciente. Dichos campos son: El Documento Nacional de Identidad o carnet de extranjería, el 
+número de historia clínica y...",la especialidad de atención.,el número de receta electrónica.,la dirección del paciente.,el autogenerado.,B
+"El químico farmacéutico responsable de una farmacia debe actualizar el procedimiento operativo relacionado a 
+bioseguridad ambiental. ¿Qué procedimiento es el que debe actualizar?",Gestión de residuos industriales,Gestión de productos de baja,Protocolo de salud ambiental,Manejo de solventes controlados,B
+"Todo servidor público debe ...… y ...… los bienes del Estado, debiendo utilizar los que le fueran asignados para el 
+desempeño de sus funciones de manera racional, evitando su abuso, derroche o desaprovechamiento, sin emplear 
+o permitir que otros empleen los bienes del Estado para fines particulares o propósitos que no sean aquellos para 
+los cuales hubieran sido específicamente destinados.",atesorar / utilizar,usar / cuidar,ejecutar / depositar,proteger / conservar,D
+"Paciente varón de 59 años con antecedente de Diabetes Mellitus 2 e HTA, hospitalizado hace 5 días. Presenta 
+actualmente al examen T°: 39 °C, PA: 110/70 mmHg, FC: 80 X'. Hemocultivo x 2: S. epidermidis. ¿Cuál es el criterio 
+faltante para considerar una IAAS de tipo bacteriemia primaria?",Nuevo consolidad a nivel pulmonar,PCR 15 mg/dL,Leucopenia,Leucocitos,B
+"En el marco del ciclo de planeamiento estratégico la fase ...... es la encargada del diseño de objetivos y acciones 
+estratégicas sectoriales en consistencia, alineamiento y coherencia con la definición de objetivos.",2,1,3,4,C
+"Para usar un indicador como medida de los resultados en un proceso de mejora continua, este debe identificar 
+situaciones en las que la calidad de la asistencia y de los servicios debe mejorarse. ¿A qué característica 
+corresponde este concepto?",Validez,Especificidad,Sensibilidad,Seguridad,A
+"El programa de mejora continua es un proceso ...... y sistemático dirigido a obtener un rendimiento mayor de un 
+proceso, aumentar la ...… de un servicio o disminuir el costo de obtención de actividades que ya se desarrollan de 
+forma habitual.",proyectado / demanda,planificado / oferta,continuo / producción,estructurado / calidad,D
+"En el Centro de salud Chao, en los últimos meses hay un aumento de casos de falta de efectividad en el control 
+glicémico en pacientes con diabetes mellitus con tratamiento de insulina, que anteriormente tenían un aparente 
+control de sus niveles de glicemia. Al hacer las indagaciones respectivas, se detecta que hubo una ruptura de la 
+cadena de frío en el transporte y recepción de la insulina NPH. ¿Qué componente del modelo de cuidado integral 
+por curso de vida es el que se encuentra comprometido?",Gestión,Calidad,Organización,Prestación,A
+"En un centro de salud, donde se desea validar y certificar la pertinencia cultural. ¿Qué porcentaje mínimo 
+de requisitos con respecto del total se deben cumplir?",33%,80%,100%,50%,B
+"¿Qué equipo de protección personal ofrece las características mínimas necesarias de seguridad para un químico 
+farmacéutico dispensador, en el contexto de una pandemia como el Covid-19?",Guantes termoresistentes,Guantes de nitrilo,Guantes de latex no estériles,Guantes de latex estériles,C
+"Un profesional de la salud empieza su servicio en una comunidad rural, donde observa que la población utiliza una 
+hierba local para tratar dolencias estomacales, sabiendo que las puede tratar con medicamentos convencionales. 
+¿Qué acción debe tomar?",Convencer a la población que es más seguro el medicamento convencional,Dejar que la población continue con su práctica tradicional,"Solicitar al IMET, la validación de la hierba medicinal",Recomendar el consumo de la hierba junto con el medicamento,C
+El uso racional de medicamentos requiere que los pacientes reciban medicamentos…,durante el menor tiempo posible.,de forma preventiva.,con dosis estandarizadas.,al costo más bajo.,D
+"Mujer de 56 años, viene al establecimiento de salud, refiere preocupación porque está subiendo de peso en los 
+últimos 3 meses. Hace 6 meses está menopáusica con tratamiento no hormonal. Sobre la prevención o control de 
+riesgos. ¿De qué riesgo deben orientarla?",De ACV,De obesidad,De depresión,De insuficiencia renal,B
+"Para medir el desempeño de las Funciones Esenciales de la Salud Pública (FESP) se necesitan indicadores que 
+deben contener:",Un estándar y un conjunto de submediciones,"Un estándar, un conjunto de mediciones y un conjunto de submediciones","Un estándar, un conjunto de mediciones y un objetivo",Un estándar y un conjunto de mediciones,B
+"El personal de salud del establecimiento realiza la evaluación de riesgo cardiovascular a un joven de 26 años; 
+obteniendo un riesgo alto según tabla. ¿Mediante qué procedimiento se obtuvo la valoración del riesgo?",IMC,Perímetro abdominal,Glucometría,Dosaje de TSH,B
